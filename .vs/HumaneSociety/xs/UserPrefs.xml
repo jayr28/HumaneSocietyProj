@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{0580B133-BBD8-44D2-8137-80337B042BBB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HumaneSociety/Customer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HumaneSociety/Query.cs">
     <Files>
-      <File FileName="HumaneSociety/Customer.cs" Line="11" Column="12" />
-      <File FileName="HumaneSociety/Client.cs" Line="1" Column="1" />
+      <File FileName="HumaneSociety/Customer.cs" Line="7" Column="19" />
+      <File FileName="HumaneSociety/Query.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

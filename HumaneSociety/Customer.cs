@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.SqlClient;
+using System.Data;
 
 namespace HumaneSociety
 {
@@ -178,7 +180,7 @@ namespace HumaneSociety
         public static string GetEmail()
         {
             var clients = Query.RetrieveClients();
-            var clientEmails = from client in clients select client.email;
+            var clientEmails = from client in clients select client.Email;
             UserInterface.DisplayUserOptions("Please enter your email");
             string email = UserInterface.GetUserInput();
             if (email.Contains("@") && email.Contains("."))
