@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0580B133-BBD8-44D2-8137-80337B042BBB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HumaneSociety/Customer.cs">
+    <Files>
+      <File FileName="HumaneSociety/Customer.cs" Line="11" Column="12" />
+      <File FileName="HumaneSociety/Client.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HumaneSociety PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
