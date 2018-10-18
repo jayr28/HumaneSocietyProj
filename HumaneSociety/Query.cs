@@ -21,7 +21,7 @@ namespace HumaneSociety
             throw new NotImplementedException();
         }
 
-        internal static Animal SearchForAnimalByMultipleTraits()
+        internal static List<Animal> SearchForAnimalByMultipleTraits()
         {
             throw new NotImplementedException();
         }
@@ -36,9 +36,9 @@ namespace HumaneSociety
             throw new NotImplementedException();
         }
 
-        internal static Client RetrieveClients()
+        internal static List<Client> RetrieveClients()
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         internal static string GetStates()
@@ -62,6 +62,21 @@ namespace HumaneSociety
         }
 
         internal static void UpdateEmail(Client client)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal static void UpdateAddress(Client client)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal static void UpdateFirstName(Client client)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal static void UpdateLastName(Client client)
         {
             throw new NotImplementedException();
         }
